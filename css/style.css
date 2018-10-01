@@ -121,6 +121,15 @@ img, video, audiot {
   margin-left: 0%;
 }
 
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background: #fff;
+  
+}
+
 section {
   margin-bottom: 20px;
   padding: 20px;
